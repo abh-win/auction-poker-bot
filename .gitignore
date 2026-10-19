@@ -1,0 +1,7 @@
+build*/
+compile_commands.json
+results/*.csv
+__pycache__/
+.venv/
+*.txt.log
+gamelog.txt
